@@ -1,0 +1,28 @@
+{
+    "title": "Grimoire of Freynor",
+    "author": "Archmage Vane",
+    "pages": [
+        {
+            "type": "text",
+            "content": "Chapter I: The Awakening\n\nLong ago, when the mists of Freynor still whispered secrets to the rivers, the first spellcrafters discovered the resonance of raw mana."
+        },
+        {
+            "type": "image",
+            "src": "books/images/sample_rune.png",
+            "caption": "Figure 1: Local Art Asset"
+        },
+        {
+            "type": "image",
+            "src": "https://picsum.photos/300/400",
+            "caption": "Figure 2: Remote URL Image Test"
+        },
+        {
+            "type": "text",
+            "content": "Chapter II: The Rules of Binding\n\n1. Never invoke a flame spirit near dry parchment.\n2. Keep your focus steady, lest the shadows take form.\n3. Enjoy the journey."
+        },
+        {
+            "type": "text",
+            "content": "Epilogue\n\nMay your ink never run dry and your pages never tear."
+        }
+    ]
+}
